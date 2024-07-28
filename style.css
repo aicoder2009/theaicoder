@@ -9,6 +9,14 @@ h1, h2, h3, h4, h5 {
   font-family: 'Averia Serif Libre';
   font-weight: 700;
 }
+*{
+    --text: #2326e1;
+    --background: #fffaeb;
+    --primary: #009de0;
+    --secondary: #e23636;
+    --accent: #5dbd3d;
+}
+
 
 html {font-size: 100%;} /* 16px */
 
