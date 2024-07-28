@@ -28,12 +28,12 @@ h1{
     color: var(--primary);
     background-color: var(--background);
 }
-h2, h3, h4{
+h2, h3, h4,h5, h6{
     color: var(--secondary);
     background-color: var(--background);
 
 }
-h5, h6{
+.accent{
     color: var(--accent);
     background-color: var(--background);
 }
